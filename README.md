@@ -11,7 +11,10 @@ Linguagens que já vi um pouco:
 - C
 
  Sobre mim:
+ 
 Gosto de aprender coisas novas e estou me adaptando em aprender programação.
+Tenho 6 gatos.
+Gosto de praticar esportes.
 
 
 
